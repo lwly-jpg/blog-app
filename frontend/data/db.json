@@ -23,6 +23,12 @@
       "body": "This post is a test",
       "author": "deid",
       "id": 4
+    },
+    {
+      "title": "Another test",
+      "body": "Hello, world",
+      "author": "cli",
+      "id": 5
     }
   ]
 }
