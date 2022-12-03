@@ -45,29 +45,31 @@
 }
 .blog-preview h2 {
   font-size: 20px;
-  color: #01a2a7;
+  color: #3535f1;
   margin-bottom: 8px;
 }
 .blog-preview a{
   text-decoration: none;
 }
+
 /* blog details page */
 .blog-details h2 {
   font-size: 20px;
-  color: #01a2a7;
+  color: #3535f1;
   margin-bottom: 10px;
 }
 .blog-details div {
   margin: 20px 0;
 }
 .blog-details button {
-  background: #01a2a7;
+  background: #3535f1;
   color: #fff;
   border: 0;
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
 }
+
 /* create new blog form */
 .create {
   max-width: 400px;
@@ -80,7 +82,7 @@
 }
 .create h2 {
   font-size: 20px;
-  color: #01a2a7;
+  color: #3535f1;
   margin-bottom: 30px;
 }
 .create input, .create textarea, .create select {
@@ -92,12 +94,10 @@
   display: block;
 }
 .create button {
-  background: #01a2a7;
+  background: #3535f1;
   color: #fff;
   border: 0;
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
 }
-
-
