@@ -1,4 +1,3 @@
-import './App.css';
 import Navbar from './Nav';
 import Home from './Home';
 
